@@ -6,7 +6,7 @@ In the project directory, run the below command in the terminal:
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any errors in the console.
 
 ## React Contact Manager
 This is a basic contact manager website built with ReactJS. It allows users to input contact information and saves the data in the browser's cache or LocalStorage using the useState and useEffect React hooks.
@@ -21,10 +21,7 @@ Easy deletion of contacts from the list.
 
 ## Technologies Used
 
-ReactJS
-JavaScript
-HTML
-CSS
+ReactJS, JavaScript, HTML, CSS
 
 ## Usage
 Input the contact's name, email, and phone number in the respective fields.
