@@ -1,37 +1,3 @@
-// import React , {useState} from 'react';
-// import './App.css';
-// import Header from './Header';
-// import AddContact from './AddContact';
-// import ContactList from './ContactList';
-
-
-
-// function App() {
-//   const [contacts,setContacs] = useState([]);
-
-//   const addContactHandler = (contact) => {
-//     console.log(contact);
-//     setContacts([...contacts, { id: uuid(), ...contact }]);
-//   };
-//   return (
-//     <div className='ui container'>
-//     <Header  />
-//     <AddContact />
-//     <ContactList contacts = {contacts} />
-//     </div>
-//   );
-// }
-
-// export default App;
-
-
-
-
-
-
-
-
-
 import React, { useState, useEffect } from "react";
 import { v4 as uuid } from "uuid";
 import "./App.css";
